@@ -35,5 +35,7 @@ but i have M1 so I need ARM64 architecture.
 ´´´
 arch -arm64 bundle install
 arch -arm64 bundle exec pod install
+sudo xcode-select --switch /Applications/Xcode.app
+and then again
 
 ´´´
