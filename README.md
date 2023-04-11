@@ -39,3 +39,7 @@ sudo xcode-select --switch /Applications/Xcode.app
 and then again
 
 ´´´
+
+https://github.com/facebook/react-native/issues/35807#issuecomment-1378831502
+
+
